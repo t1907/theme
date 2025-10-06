@@ -8,7 +8,7 @@
 $WEBHOOK_URL = "";
 
 // Świat z którego akceptowane mają być grzyby (sprawdzany po nagłówku origin)
-$REQUIRED_WORLD = "aether";
+$REQUIRED_WORLD = "syberia";
 
 // Adres z którego mają być brane obrazki grzybów do pokazania na Discordzie
 // (Margonem blokuje IP Discorda, więc nie działa bezpośrednio z cdn!)
